@@ -1,6 +1,6 @@
 <h1 align="center"> RealSync </h1>
 
-<h1 align="center">![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<h1 align="center"> ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <h2 align="center"> Project Description </h2>
 Envia pacotes de informações alternadas, por meio de um sistema de prioridade, via LoRa d2d
