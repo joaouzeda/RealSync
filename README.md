@@ -21,7 +21,7 @@ Date: 2025, Janr <br/>
 
 <h2 align="center"> Autores </h2>
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/55409817?v=4" width=115><br><sub>João Uzêda</sub>](https://github.com/joaouzeda) |
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/55409817?v=4" width=115><br><sub>João Uzêda</sub>](https://github.com/joaouzeda) 
 
 # *Badges*
 
