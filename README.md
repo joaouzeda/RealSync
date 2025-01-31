@@ -3,7 +3,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <h2 align="center"> Project Description </h2>
-<h1 align="center">  Envia pacotes de informações alternadas, por meio de um sistema de prioridade, via LoRa d2d <br/>
+<br align="center">  Envia pacotes de informações alternadas, por meio de um sistema de prioridade, via LoRa d2d <br/>
 
 <h2 align="center">Technologies Used </h2>
 1. ESP32 <br/>
